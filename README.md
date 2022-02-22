@@ -4,7 +4,7 @@ It allows you to review superheroes (add marks, write some feedback), add new su
 
 
 ## Disclaimer
-This is a learning project. It's not recommended for a production. The Solidity contracts are implemented with experimental flags enabled to simplify the development. I will improve it to make production ready soon. If you would like to help me bringing it ready to production, just let know on dmytro.zharkov@gmail.com.
+This is a learning project. It's not recommended for a production. The Solidity contracts are implemented with experimental flags enabled to simplify the development. 
 
 ## Technologies: 
 * Ethereum.
@@ -25,14 +25,14 @@ This is a learning project. It's not recommended for a production. The Solidity 
 ## Installation.
 ### Simple installation. Run against Ropsten deployment (adding new heroes is restricted to account owner).
 
-1. ```git clone https://github.com/DmitriyNoa/angular-ethereum-decentralized-application.git```.
+1. ```git clone https://github.com/cuteOlaf/ethereum-dev-template.git
 2. ```cd angular-ethereum-decentralized-application```.
 3. ```npm i```.
 4. ```npm start```.
 
 ### Full local setup. Run against local Ethereum instance. 
 
-1. ```git clone https://github.com/DmitriyNoa/angular-ethereum-decentralized-application.git```.
+1. ```git clone https://github.com/cuteOlaf/ethereum-dev-template.git
 2. In a terminal run ```cd angular-ethereum-decentralized-application```.
 3. ```make install_all```.
 4. Open new a terminal tab and run the local Ethereum with: ```make run_local_ethereum```.
